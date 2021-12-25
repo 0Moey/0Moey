@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on StudyBot
+- 🔭 I’m currently working on getting my OSCP
 - 🌱 I’m currently learning Native languages (C#, C++)
 - 🌟 I'm fluent in Python, PHP, HTML, CSS, React, JS
 - 🌟 I know a little amount of GO
