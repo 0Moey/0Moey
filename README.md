@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on getting my OSCP
 - 🌱 I’m currently learning Native languages (C#, C++)
 - 🌟 I'm fluent in Python, PHP, HTML, CSS, React, JS
-- 🌟 I know a little amount of GO
 - 📫 DM me on discord (Apple#0420)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thetottyapple&show_icons=true&theme=radical)  
