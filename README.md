@@ -3,7 +3,7 @@
 OSCP
 
 - 🔭 I’m currently working on getting my OSED
-- 🌱 I’m currently learning Deeper Reversing
+- 🌱 I’m currently learning Advanced Memory Exploitation
 - 🌟 I'm fluent in Web, Python, and Native
 - 📫 Discord: Apple#0420
 
