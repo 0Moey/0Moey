@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌟 OSCP, OSED, exp-301 student
+- 🌟 OSCP, OSED, EXP-301 student
 - 📫 Discord: moey0
 
