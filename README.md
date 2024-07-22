@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌟 OSCP, OSWE, OSED, PEN-300 student
+- 🌟 OSCE3, OSCP, OSWE, OSED, OSEP
 - 📫 Discord: moey0
 
